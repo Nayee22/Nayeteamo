@@ -316,8 +316,8 @@ global.reloadHandler = async function(restatConn) {
   }
 
   conn.welcome = '*╔══════ ≪ •❈• ≫ ══════╗*\n*Holaa :D Bienvenido/a al grupo!!*\n*━━━━━━━━━━━━━━━━*\n\n🌺 *• Nombre:* @user\n🌿 *• Bio:* @bio\n🕒 *• Hora:* @time\n🗓️ *• Fecha:* @date\n\n- *recuerda leer las reglas del grupo*\n*╚══════ ≪ •❈• ≫ ══════╝*';
-  conn.bye = '*╔══════ ≪ •❈• ≫ ══════╗*\n*║➤ @user*\n*║➤ABANDONO EL GRUPO  👋🏻* \n*║➤SE FUE PARA NO VOLVER ESE FANTASMA 👻* \n*╚══════ ≪ •❈• ≫ ══════╝*';
-  conn.spromote = '*@user tiene el poder de los admins*\n\n*ojala sea buen administrador*';
+  conn.bye = '*╔══════ ≪ •❈• ≫ ══════╗*\n*║➤ @user*\n*║➤ABANDONO EL GRUPO  👋🏻* \n*║➤ME SALUDAS A MARADONA BRO :D* \n*╚══════ ≪ •❈• ≫ ══════╝*';
+  conn.spromote = '*⎡ •⚠️ Nuevo Admin detectado ⚠️• ⎦*\n*━━━━━━━━━━━━━━━━*\n🐢 *• Nombre:* @user\n🕒 *• Hora:* @time\n🗓️ *• Fecha:* @date\n*━━━━━━━━━━━━━━━━*';
   conn.sdemote = '*@suser ya no es admin*\n\n*no fue buen administrador jskjs*';
   conn.sDesc = '*𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙻𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*\n\n*𝙽𝚄𝙴𝚅𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:* @desc';
   conn.sSubject = '*𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*\n*𝙽𝚄𝙴𝚅𝙾 𝙽𝙾𝙼𝙱𝚁𝙴:* @subject';

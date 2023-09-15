@@ -315,7 +315,7 @@ global.reloadHandler = async function(restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate);
   }
 
-  conn.welcome = '*╔══════ ≪ •❈• ≫ ══════╗*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n\n@desc\n\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════ ≪ •❈• ≫ ══════╝*';
+  conn.welcome = '*╔══════ ≪ •❈• ≫ ══════╗*\n*Holaa :D Bienvenido/a al grupo!!*\n*━━━━━━━━━━━━━━━━*\n\n🌺 *• Nombre:* @user\n🌿 *• Bio:* @bio\n🕒 *• Hora:* @time\n🗓️ *• Fecha:* @date\n\n- *recuerda leer las reglas del grupo*\n*╚══════ ≪ •❈• ≫ ══════╝*';
   conn.bye = '*╔══════ ≪ •❈• ≫ ══════╗*\n*║➤ @user*\n*║➤ABANDONO EL GRUPO  👋🏻* \n*║➤SE FUE PARA NO VOLVER ESE FANTASMA 👻* \n*╚══════ ≪ •❈• ≫ ══════╝*';
   conn.spromote = '*@user tiene el poder de los admins*\n\n*ojala sea buen administrador*';
   conn.sdemote = '*@suser ya no es admin*\n\n*no fue buen administrador jskjs*';

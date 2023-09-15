@@ -317,8 +317,8 @@ global.reloadHandler = async function(restatConn) {
 
   conn.welcome = '*╔══════ ≪ •❈• ≫ ══════╗*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝙱𝙸𝙴𝙽𝚅𝙴𝙽𝙸𝙳𝙾/𝙰* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n\n@desc\n\n*║*\n*╟❧ 𝙳𝙸𝚂𝙵𝚁𝚄𝚃𝙰 𝚃𝚄 𝙴𝚂𝚃𝙰𝙳𝙸𝙰!!*\n*╚══════ ≪ •❈• ≫ ══════╝*';
   conn.bye = '*╔══════ ≪ •❈• ≫ ══════╗*\n*║➤ @user*\n*║➤ABANDONO EL GRUPO  👋🏻* \n*║➤SE FUE PARA NO VOLVER ESE FANTASMA 👻* \n*╚══════ ≪ •❈• ≫ ══════╝*';
-  conn.spromote = '*@subject tiene el poder de los admins*\n\n*acción realizada por: @subject !!*';
-  conn.sdemote = '*@subject ya no es admin*\n\n*acción realizada por : @subject!!*';
+  conn.spromote = '*@user tiene el poder de los admins*\n\n*ojala sea buen administrador*';
+  conn.sdemote = '*@suser ya no es admin*\n\n*no fue buen administrador jskjs*';
   conn.sDesc = '*𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙻𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*\n\n*𝙽𝚄𝙴𝚅𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:* @desc';
   conn.sSubject = '*𝚂𝙴 𝙷𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙳𝙾 𝙴𝙻 𝙽𝙾𝙼𝙱𝚁𝙴 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾*\n*𝙽𝚄𝙴𝚅𝙾 𝙽𝙾𝙼𝙱𝚁𝙴:* @subject';
   conn.sIcon = '*𝚂𝙴 𝙷𝙰 𝙲𝙰𝙼𝙱𝙸𝙰𝙳𝙾 𝙻𝙰 𝙵𝙾𝚃𝙾 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾!!*';
